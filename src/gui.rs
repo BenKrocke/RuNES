@@ -6,7 +6,7 @@ use std::string::String;
 use sdl2::render::Canvas;
 use sdl2::video::Window;
 
-const TITLE: &str = "Runes Emulator";
+const TITLE: &str = "RuNES Emulator";
 const NES_WIDTH: u32 = 256;
 const NES_HEIGHT: u32 = 240;
 const WIDTH: u32 = NES_WIDTH + 200;
